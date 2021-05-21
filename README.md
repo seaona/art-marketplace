@@ -1,4 +1,4 @@
-# Star Notary Dapp
+# Genui-NFT
 ## Summary
 This project is a Dapp for allow users to create, exchange or transfer Art Asssets using the ERC-721 standard. It's build on top of Rinkeby (Ethereum testnet) and uses Ethereum core technologies like Truffle, Open Zeppelin and Solidity.
 Smart contract generates a new token called "GEN" for transferring ownership between the stars created. This token can be found on Etherscan.
