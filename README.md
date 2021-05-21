@@ -8,7 +8,7 @@ Smart contract generates a new token called "GEN" for transferring ownership bet
 See details below for basic config and description and flow about the Dapp, as well as how to set it up and run the tests.
 
 ## Config & Basic Info
-- ERC-721 Token Name: "Genuinft"
+- ERC-721 Token Name: "GenuiNFT"
 - Your ERC-721 Token Symbol: "GEN"
 - Truffle v5.2.4 (core: 5.2.4)
 - Solidity v0.5.16 (solc-js)
@@ -29,6 +29,8 @@ See details below for basic config and description and flow about the Dapp, as w
 1. Go inside app folder: ``cd app``
 2. Install the dependencies: ``npm i``
 3. Run the application on localhost:8080: ``npm run dev``
+
+![](README-pics/marketplace.png)
 
 ## Dapp Flow
 The current frontend supports 2 main functionalities, though the backend contracts support more (see on the TODOs). The basic flow is as follows:
